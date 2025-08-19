@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to SSP Bank accounts related production APIs "
   contactDetails:
-    name: "Pooja Bendadi- Production Owner"
+    name: "Pooja Bendadi- Prod Owner"
     email: "{cipher}9c4b9b4f4df06f878a14d1f13a4a5917230ac53f8baa34cd4677811dce7d931e5520ce56d4ad34a010809d44c500bf20"
   onCallSupport:
     - (784) 877-1534
