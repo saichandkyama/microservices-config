@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 cards:
-  message: "Welcome to SSP Bank Cards related Prod APIs "
+  message: "Welcome to SSP Bank Cards related production APIs "
   contactDetails:
     name: "Saichand Kyama - Developer"
     email: "saichandkyama@gmail.com"
