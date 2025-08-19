@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to SSP Bank Loans related production APIs "
   contactDetails:
-    name: "John Hickman - Product Owner"
+    name: "John Hickman - Prod Owner"
     email: "john.hickman@sspbank.com"
   onCallSupport:
     - (333) 555-1234
