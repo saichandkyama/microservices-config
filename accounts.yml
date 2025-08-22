@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to SSP Bank accounts related local APIs "
+  message: "Welcome to SSP Bank accounts related docker APIs "
   contactDetails:
     name: "Saichand Kyama - Developer"
     email: "saichandkyama@gmail.com"
